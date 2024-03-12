@@ -3,6 +3,7 @@
     justify-content: center;
     flex-direction: column;
     align-items: center;
+    align-content: flex-start;
     margin-top: 30px;
     background-color: darkgrey;
     font-family: 'Yanone Kaffeesatz', sans-serif;
@@ -41,3 +42,4 @@
 .iframeFollowers{
     margin-top: 5px;
 }
+
