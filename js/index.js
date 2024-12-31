@@ -1,4 +1,4 @@
-const requestURL = 'https://www.googleapis.com/youtube/v3/channels?part=statistics&id=UCnf4Cq2Cn13VfIVyVjMWHsA&key=AIzaSyD--yvoC8t9tjwag2Km8qrNgtvTYlV7u2M';
+const requestURL = 'https://www.googleapis.com/youtube/v3/channels?part=statistics&id=xxxxxxx';
 
 
 async function fetchMoviesJson() {
